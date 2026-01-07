@@ -4,5 +4,6 @@ CREATE TABLE clientes(
   email VARCHAR(150)
   );
   SELECT * FROM clientes
-  SELECT nome, email WHERE clientes
+  SELECT nome, email FROM clientes
+
   
